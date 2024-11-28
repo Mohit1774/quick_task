@@ -1,16 +1,26 @@
 # quick_task
 
-A new Flutter project.
+QuickTask is a simplified task management app designed to help users organize their tasks efficiently.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Installation
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the repository:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+   ```bash
+   git clone https://github.com/Mohit1774/quick_task.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Install the dependencies using the command:
+
+    ```markdown
+    flutter pub get
+    ```
+
+3. To check in Android Emulated Devices, install Android Studio from https://developer.android.com/studio
+
+4. Run the application using the command:
+
+    ```markdown
+    flutter run
+    ```
